@@ -21,25 +21,19 @@
         "Entry"
         {
         "MsmKey" = "8:_5DDBBAA3C702BF53B22141546222BCFB"
-        "OwnerKey" = "8:_E8AFD0B7870F9E7FE2261E3C901FA070"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5DDBBAA3C702BF53B22141546222BCFB"
         "OwnerKey" = "8:_B2CD0F331DB3479B47EE5C1C863F08AB"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5DDBBAA3C702BF53B22141546222BCFB"
-        "OwnerKey" = "8:_60B25010A5141670E0182D86046B6F05"
+        "MsmKey" = "8:_7480DA857BDA9F8C1B3AAC6F5E26E9E8"
+        "OwnerKey" = "8:_8B233B94FB5F4892A28DECE629B9D494"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_60B25010A5141670E0182D86046B6F05"
-        "OwnerKey" = "8:_8B233B94FB5F4892A28DECE629B9D494"
+        "MsmKey" = "8:_7480DA857BDA9F8C1B3AAC6F5E26E9E8"
+        "OwnerKey" = "8:_976D0BA5D4E840E610BA4B9399E9D223"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -56,31 +50,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_B2CD0F331DB3479B47EE5C1C863F08AB"
-        "OwnerKey" = "8:_60B25010A5141670E0182D86046B6F05"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B2CD0F331DB3479B47EE5C1C863F08AB"
+        "MsmKey" = "8:_976D0BA5D4E840E610BA4B9399E9D223"
         "OwnerKey" = "8:_8B233B94FB5F4892A28DECE629B9D494"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_B2CD0F331DB3479B47EE5C1C863F08AB"
-        "OwnerKey" = "8:_E8AFD0B7870F9E7FE2261E3C901FA070"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E8AFD0B7870F9E7FE2261E3C901FA070"
-        "OwnerKey" = "8:_60B25010A5141670E0182D86046B6F05"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_E8AFD0B7870F9E7FE2261E3C901FA070"
         "OwnerKey" = "8:_8B233B94FB5F4892A28DECE629B9D494"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -144,19 +120,19 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_60B25010A5141670E0182D86046B6F05"
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_7480DA857BDA9F8C1B3AAC6F5E26E9E8"
             {
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
+            "AssemblyAsmDisplayName" = "8:OpenNETCF.Configuration, Version=2.3.12004.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7"
                 "ScatterAssemblies"
                 {
-                    "_60B25010A5141670E0182D86046B6F05"
+                    "_7480DA857BDA9F8C1B3AAC6F5E26E9E8"
                     {
-                    "Name" = "8:System.Data.dll"
+                    "Name" = "8:OpenNETCF.Configuration.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:System.Data.dll"
+            "SourcePath" = "8:OpenNETCF.Configuration.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_AF8D9BA42118469F97EE2919421254B7"
@@ -168,7 +144,7 @@
             "Permanent" = "11:FALSE"
             "SharedLegacy" = "11:FALSE"
             "Register" = "3:0"
-            "Exclude" = "11:TRUE"
+            "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
@@ -190,6 +166,34 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_976D0BA5D4E840E610BA4B9399E9D223"
+            {
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:OpenNETCF, Version=2.3.12004.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7"
+                "ScatterAssemblies"
+                {
+                    "_976D0BA5D4E840E610BA4B9399E9D223"
+                    {
+                    "Name" = "8:OpenNETCF.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:OpenNETCF.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AF8D9BA42118469F97EE2919421254B7"
+            "Condition" = "8:"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "Register" = "3:0"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_B2CD0F331DB3479B47EE5C1C863F08AB"
             {
             "AssemblyIsInGAC" = "11:FALSE"
@@ -203,34 +207,6 @@
                     }
                 }
             "SourcePath" = "8:System.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_AF8D9BA42118469F97EE2919421254B7"
-            "Condition" = "8:"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "Register" = "3:0"
-            "Exclude" = "11:TRUE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{E4F2F62A-3940-4BF5-A031-F7FA98CAAFFA}:_E8AFD0B7870F9E7FE2261E3C901FA070"
-            {
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac"
-                "ScatterAssemblies"
-                {
-                    "_E8AFD0B7870F9E7FE2261E3C901FA070"
-                    {
-                    "Name" = "8:System.Xml.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Xml.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_AF8D9BA42118469F97EE2919421254B7"
@@ -300,7 +276,7 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Hopper Watchdog"
-        "Manufacturer" = "8:Hopper Watchdog"
+        "Manufacturer" = "8:Testing"
         "OSVersionMin" = "8:4.0"
         "OSVersionMax" = "8:6.99"
         "NoUninstall" = "11:FALSE"
@@ -311,7 +287,7 @@
         {
             "{605BE39E-5046-48BD-AEC0-63C3A46626D5}:_8B233B94FB5F4892A28DECE629B9D494"
             {
-            "SourcePath" = "8:..\\HopperWatchdog\\obj\\Debug\\HopperWatchdog.exe"
+            "SourcePath" = "8:..\\HopperWatchdog\\obj\\Release\\HopperWatchdog.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_AF8D9BA42118469F97EE2919421254B7"
