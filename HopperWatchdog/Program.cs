@@ -9,7 +9,7 @@
         static void Main(string[] args)
         {
             var period = 15 * 60 * 1000;
-            var runningInterval = 5 * 60 * 1000;
+            var runningInterval = 2 * 60 * 1000;
 
             if (args.Length > 1)
             {
